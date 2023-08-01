@@ -1,8 +1,8 @@
 ---
 title: deeplinks
 layout: home
-nav_order: 3
-parent: Accueil
+nav_order: 2
+parent: documentation
 ---
 
 # Deeplinks
