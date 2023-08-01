@@ -1,7 +1,6 @@
 ---
 title: test
 layout: home
-layout: wearOS
 ---
 
 ## Fonctionnalités
