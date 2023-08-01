@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: home
 layout: home
 has_children: true
 ---
