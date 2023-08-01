@@ -29,15 +29,14 @@ Le décompresser et placer le fichier APK jeemate dans ce dossier.
 
 Ouvrir WearOs tools et indiquer l'ip de votre montre
 
-![wearos-tools-01.png](/tuto/wearos-tools-01.png)
+
 
 Choisir 1 pour installer une application
 
-![wearos-tools-02.png](/tuto/wearos-tools-02.png)
+
 
 De nouveau choisir 1 pour installer une application
 
-![wearos-tools-03.png](/tuto/wearos-tools-03.png)
 
 Une fenêtre s'ouvre avec la liste des APK disponibles, notez le numéro de celui de JeeMate et procéder à l'installation.
 
@@ -56,7 +55,6 @@ Ensuite sélectionnez le backup que vous avez créé pour votre montre (et pass�
 
 ### Page d'accueil
 
-![jeematewearos-accueil.png](/tuto/jeematewearos-accueil.png =300x)
 1. notifications
 1. scénarios
 1. onglets
@@ -66,18 +64,18 @@ Ensuite sélectionnez le backup que vous avez créé pour votre montre (et pass�
 1. configuration
 
 Un swipe de bas vers le haut ouvre la page acceuil de l'onglet Home.
-![pageaccueil.png](/tuto/wearos/pageaccueil.png =300x)
+![pageaccueil.png](/Images/wearos/accueil.png =300x)
 
 Un double clic sur l'icone home ouvre la page de sélection de la session.
 
 ### Page configuration
-![jeematewearos-configs.png](/tuto/jeematewearos-configs.png =300x)
+![jeematewearos-configs.png](/Images/wearos/caméra.png =300x)
 
 Avec le bouton de droite sélectionner la sauvegarde à appliquer sur votre montre.
-![backup.png](/tuto/wearos/backup.png =300x)
+![backup.png](/Images/wearos/backup.png =300x)
 ### Page notification
 
-![jeematewearos-notifs.png](/tuto/jeematewearos-notifs.png =300x)
+![jeematewearos-notifs.png](/Images/wearos/eclairage.png =300x)
 
 
 
