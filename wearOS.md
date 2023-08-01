@@ -72,10 +72,10 @@ Un double clic sur l'icone home ouvre la page de sélection de la session.
 ![caméra.png](/Images/wearos/caméra.png =300x)
 
 Avec le bouton de droite sélectionner la sauvegarde à appliquer sur votre montre.
-![backup.png](/Images/wearos/backup.png =300x)
+![backup.png](Images/wearos/backup.png =300x)
 ### Page éclairage
 
-![eclairage.png](/Images/wearos/eclairage.png =300x)
+![eclairage.png](Images/wearos/eclairage.png =300x)
 
 
 
