@@ -1,8 +1,7 @@
 ---
-title: Home
-layout: default
-nav_order: 1
-permalink: /
+title: Accueil
+layout: home
+has_children: true
 ---
 
 ## JeeMate
