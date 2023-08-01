@@ -1,6 +1,7 @@
 ---
 title: wearOS
 layout: home
+nav_order: 1
 ---
 
 # JeeMate pour Wear OS
