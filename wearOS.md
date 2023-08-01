@@ -64,18 +64,18 @@ Ensuite sélectionnez le backup que vous avez créé pour votre montre (et pass�
 1. configuration
 
 Un swipe de bas vers le haut ouvre la page acceuil de l'onglet Home.
-![pageaccueil.png](/Images/wearos/accueil.png =300x)
+![accueil.png](/Images/wearos/accueil.png =300x)
 
 Un double clic sur l'icone home ouvre la page de sélection de la session.
 
-### Page configuration
-![jeematewearos-configs.png](/Images/wearos/caméra.png =300x)
+### Page caméras
+![caméra.png](/Images/wearos/caméra.png =300x)
 
 Avec le bouton de droite sélectionner la sauvegarde à appliquer sur votre montre.
 ![backup.png](/Images/wearos/backup.png =300x)
-### Page notification
+### Page éclairage
 
-![jeematewearos-notifs.png](/Images/wearos/eclairage.png =300x)
+![eclairage.png](/Images/wearos/eclairage.png =300x)
 
 
 
