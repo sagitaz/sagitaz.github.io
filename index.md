@@ -1,6 +1,7 @@
 ---
 title: Accueil
 layout: home
+nav_order: 2
 ---
 
 ## JeeMate
