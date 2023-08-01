@@ -75,7 +75,7 @@ Avec le bouton de droite sélectionner la sauvegarde à appliquer sur votre mont
 ![backup.png](Images/wearos/backup.png =300x)
 ### Page éclairage
 
-![eclairage.png](Images/wearos/eclairage.png =300x)
+![eclairage](/Images/wearos/eclairage.png)
 
 
 
