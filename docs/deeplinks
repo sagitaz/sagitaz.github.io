@@ -1,3 +1,10 @@
+---
+title: deeplinks
+layout: home
+nav_order: 3
+parent: Accueil
+---
+
 # Deeplinks
 ## Afficher une pièce : 
 `jeemate://deeplink/room/{{Room Id}}`
