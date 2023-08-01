@@ -3,4 +3,6 @@ description: La documentation de l'application mobile JeeMate for Jeedom
 theme: just-the-docs
 
 url: https://sagitaz.github.io/
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 
