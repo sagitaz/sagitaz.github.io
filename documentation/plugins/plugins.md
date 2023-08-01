@@ -1,3 +1,10 @@
+---
+title: Plugins intégrés
+layout: default
+parent: Documentation
+grand_parent: Accueil
+---
+
 ## Compatibilité avec Jeedom
 
 > Derniers plugins auto-configurés, car le mieux c'est de ne rien faire !
