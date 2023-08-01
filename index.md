@@ -6,6 +6,7 @@ has_children: true
 
 JeeMate est une application mobile compatible avec Jeedom disponible sur Android, iOS, Windows et macOS.
 Contrôlez facilement votre maison intelligente grâce à son interface intuitive et customisable.
+{: .label .label-yellow }
 
  
 
