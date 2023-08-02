@@ -1,7 +1,7 @@
 ---
 title: Commandes
 layout: default
-parent: Changelog
+parent: Documentation
 grand_parent: Accueil
 ---
 # Les commandes actions

@@ -1,6 +1,6 @@
 ---
 title: Notifications
 layout: default
-parent: Changelog
+parent: Documentation
 grand_parent: Accueil
 ---

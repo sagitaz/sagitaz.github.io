@@ -1,6 +1,6 @@
 ---
 title: Rendu conditionnel
 layout: default
-parent: Changelog
+parent: Documentation
 grand_parent: Accueil
 ---

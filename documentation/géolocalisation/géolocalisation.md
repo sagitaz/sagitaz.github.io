@@ -1,6 +1,7 @@
 ---
 title: Géolocalisation
 layout: default
-parent: Changelog
+parent: Documentation
 grand_parent: Accueil
+nav_order: 1.2
 ---
