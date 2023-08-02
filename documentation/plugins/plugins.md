@@ -31,7 +31,7 @@ Une fois les types génériques correctement configurés, tous les plugins sont 
 |![jeemate.png](/../Images/documentations/plugins intégrés/jeemate.png)|
 
 # confort
-|[thermostat](/fr/tuto/plugins-tiers-thermostat)| pool |
+|[thermostat](/Images/documentations/plugins/thermostat_icon.webp)| pool |
 |:-:	|:-:	|
 | ![thermostat_icon.png](/icons/thermostat_icon.png)  | ![pool_icon.png](/icons/pool_icon.png) |
 |toshiba ac| |
