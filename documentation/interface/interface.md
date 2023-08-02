@@ -3,6 +3,7 @@ title: interface
 layout: default
 parent: Documentation
 grand_parent: Accueil
+nav_order: 5
 ---
 
 # Configuration interface

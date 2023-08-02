@@ -3,6 +3,7 @@ title: Free / Premium
 layout: default
 parent: Documentation
 grand_parent: Accueil
+nav_order: 1
 ---
 
 ## Fonctionnalités

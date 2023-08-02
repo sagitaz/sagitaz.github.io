@@ -3,6 +3,7 @@ title: Plugins intégrés
 layout: default
 parent: Documentation
 grand_parent: Accueil
+nav_order: 2
 ---
 
 ## Compatibilité avec Jeedom

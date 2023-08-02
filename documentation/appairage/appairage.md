@@ -3,6 +3,7 @@ title: Appairage
 layout: default
 parent: Documentation
 grand_parent: Accueil
+nav_order: 3
 ---
 
 ## Appairage du plugin JeeMate avec votre appareil
