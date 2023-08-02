@@ -3,7 +3,7 @@ title: Free / Premium
 layout: default
 parent: Documentation
 grand_parent: Accueil
-nav_order: 1
+nav_order: 1.1
 ---
 
 ## Fonctionnalités
@@ -16,14 +16,15 @@ Afin de pouvoir utiliser certaines fonctions avancées, et supporter le dévelop
 
 
 ![jeematefree.png](/jeematefree.png =150x){.align-center}
-- Récupération de l’état des équipements
-- Intégration des plugins compatibles
-- Envoi de notifications PUSH
-- Batteries et Santé Jeedom
-- Contrôle des équipements
-- Timeline Jeedom
-- Synthèse Jeedom
-- Onglet Pièces
+
+* Récupération de l’état des équipements
+* Intégration des plugins compatibles
+* Envoi de notifications PUSH
+* Batteries et Santé Jeedom
+* Contrôle des équipements
+* Timeline Jeedom
+* Synthèse Jeedom
+* Onglet Pièces
 {: .label .label-yellow }
 
 

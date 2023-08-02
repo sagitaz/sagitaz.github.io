@@ -3,7 +3,6 @@ title: Configuration
 layout: default
 parent: Documentation
 grand_parent: Accueil
-nav_order: 4
 ---
 
 # Configuration
