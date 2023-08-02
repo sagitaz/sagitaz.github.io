@@ -27,12 +27,12 @@ Une fois les types génériques correctement configurés, tous les plugins sont 
 
 # communication
 |JeeMate|
-|:-:	|:-:	|
-|![jeemate.png](/../Images/documentations/plugins intégrés/jeemate.png)|
+|:-----|:------|
+|![jeemate](/../Images/documentations/plugins intégrés/jeemate.png)|
 
 # confort
 |[thermostat](/Images/documentations/plugins/thermostat_icon.webp)| pool |
-|:-:	|:-:	|
+|:----------|:-------|
 | ![thermostat](/Images/documentations/plugins/thermostat_icon.webp)  | ![pool](/Images/documentations/plugins/pool_icon.webp) |
 |toshiba ac| |
 | ![toshibaac](/Images/documentations/plugins/toshibaac_icon.webp) | |
