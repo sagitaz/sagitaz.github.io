@@ -33,79 +33,79 @@ Une fois les types génériques correctement configurés, tous les plugins sont 
 # confort
 |[thermostat](/Images/documentations/plugins/thermostat_icon.webp)| pool |
 |:-:	|:-:	|
-| ![thermostat_icon.png](/icons/thermostat_icon.png)  | ![pool_icon.png](/icons/pool_icon.png) |
+| ![thermostat](/Images/documentations/plugins/thermostat_icon.webp)  | ![pool](/Images/documentations/plugins/pool_icon.webp) |
 |toshiba ac| |
-| ![toshibaac_icon.png](/icons/toshibaac_icon.png) | |
+| ![toshibaac](/Images/documentations/plugins/toshibaac_icon.webp) | |
 
 # Energie
 | conso | enedis |
 |:-:	|:-:	|
-| ![conso_icon.png](/icons/conso_icon.png) | ![enedis_icon.png](/icons/enedis_icon.png) |
+| ![conso](/Images/documentations/plugins/conso_icon.webp) | ![enedis](/Images/documentations/plugins/enedis_icon.webp) |
 |rteEcowatt| |
-|![rteecowatt_icon.png](/icons/rteecowatt_icon.png)| |
+|![rteecowatt](/Images/documentations/plugins/rteecowatt_icon.webp)| |
 
 
 # Monitoring
 |proxmox|apcups|
 |:-:	|:-:	|
-|![proxmox_icon.png](/icons/proxmox_icon.png)|![apcups_icon.png](/icons/apcups_icon.png)|
+|![proxmox](/Images/documentations/plugins/proxmox_icon.webp)|![apcups](/Images/documentations/plugins/apcups_icon.webp)|
 |vmware|Freebox_OS|
-|![vmware_icon.png](/icons/vmware_icon.png)|![freebox_os_icon.png](/icons/freebox_os_icon.png)|
+|![vmware](/Images/documentations/plugins/vmware_icon.webp)|![freebox_os](/Images/documentations/plugins/freebox_os_icon.webp)|
 nut|AdGuard|
-![nut_icon.png](/icons/nut_icon.png)|![adguard_icon.png](/icons/adguard_icon.png)|
+![nut](/Images/documentations/plugins/nut_icon.webp)|![adguard](/Images/documentations/plugins/adguard_icon.webp)|
 [monitoring](/fr/tuto/plugins-tiers-monitoring)|networks|
-![monitoring_icon.png](/icons/monitoring_icon.png)|![networks_icon.png](/icons/networks_icon.png)|
+![monitoring](/Images/documentations/plugins/monitoring_icon.webp)|![networks](/Images/documentations/plugins/networks_icon.webp)|
 speedtest|speedtestByOockla|
-![speedtest_icon.png](/icons/speedtest_icon.png)|![speedtestbyookla_icon.png](/icons/speedtestbyookla_icon.png)|
+![speedtest](/Images/documentations/plugins/speedtest_icon.webp)|![speedtestbyookla](/Images/documentations/plugins/speedtestbyookla_icon.webp)|
 # Multimedia
 |googlecast|squeezeboxcontrol|
 |:-:	|:-:	|
-|![googlecast_icon.png](/icons/googlecast_icon.png)|![squeezeboxcontrol_icon.png](/icons/squeezeboxcontrol_icon.png)
+|![googlecast](/Images/documentations/plugins/googlecast_icon.webp)|![squeezeboxcontrol](/Images/documentations/plugins/squeezeboxcontrol_icon.webp)
 |sonos3|spotifyconnect|
-|![sonos3_icon.png](/icons/sonos3_icon.png)|![spotifyconnect_icon.png](/icons/spotifyconnect_icon.png)|
+|![sonos3](/Images/documentations/plugins/sonos3_icon.webp)|![spotifyconnect](/Images/documentations/plugins/spotifyconnect_icon.webp)|
 |alexaspotify|alexaamazonmusic|
-|![alexaspotify_icon.png](/icons/alexaspotify_icon.png)|![alexaamazonmusic_icon.png](/icons/alexaamazonmusic_icon.png)|
+|![alexaspotify](/Images/documentations/plugins/alexaspotify_icon.webp)|![alexaamazonmusic](/Images/documentations/plugins/alexaamazonmusic_icon.webp)|
 |alexadeezer|telecfree|
-|![alexadeezer_icon.png](/icons/alexadeezer_icon.png)|![telecfree_icon.png](/icons/telecfree_icon.png)|
+|![alexadeezer](/Images/documentations/plugins/alexadeezer_icon.webp)|![telecfree](/Images/documentations/plugins/telecfree_icon.webp)|
 |AndroidTV|JeeOrangeTv|
-|![androidtv_icon.png](/icons/androidtv_icon.png)|![jeeorangetv_icon.png](/icons/jeeorangetv_icon.png)|
+|![androidtv](/Images/documentations/plugins/androidtv_icon.webp)|![jeeorangetv](/Images/documentations/plugins/jeeorangetv_icon.webp)|
 # Météo
 |[airquality](/fr/tuto/plugins-tiers-airquality)|[meteoFull](/fr/tuto/plugins-tiers-meteo)|
 |:-:	|:-:	|
-|![airquality_icon.png](/icons/airquality_icon.png)|![meteofull_icon.png](/icons/meteofull_icon.png)|
+|![airquality](/Images/documentations/plugins/airquality_icon.webp)|![meteofull](/Images/documentations/plugins/meteofull_icon.webp)|
 netatmoWeather|netatmoPublicData|
-|![netatmoweather_icon.png](/icons/netatmoweather_icon.png)|![netatmopublicdata_icon.png](/icons/netatmopublicdata_icon.png)|
+|![netatmoweather](/Images/documentations/plugins/netatmoweather_icon.webp)|![netatmopublicdata](/Images/documentations/plugins/netatmopublicdata_icon.webp)|
 |[weather](/fr/tuto/plugins-tiers-meteo)|weatherbit|
-|![weather_icon.png](/icons/weather_icon.png)|![weatherbit_icon.png](/icons/weatherbit_icon.png)|
+|![weather](/Images/documentations/plugins/weather_icon.webp)|![weatherbit](/Images/documentations/plugins/weatherbit_icon.webp)|
 meteofrance|
-![meteofrance_icon.png](/icons/meteofrance_icon.png)|
+![meteofrance](/Images/documentations/plugins/meteofrance_icon.webp)|
 
 
 # Objets connectés
 |netatmopro|tesla|
 |:-:	|:-:	|
-|![netatmopro_icon.png](/icons/netatmopro_icon.png)|![tesla_icon.png](/icons/tesla_icon.png) |
+|![netatmopro](/Images/documentations/plugins/netatmopro_icon.webp)|![tesla](/Images/documentations/plugins/tesla_icon.webp) |
 
 
 # Organisation
 |mybin|[prix-carburants](/fr/tuto/plugins-tiers-carburants)|
 |:-:	|:-:	|
-|![mybin_icon.png](/icons/mybin_icon.png)|![prixcarburants_icon.png](/icons/prixcarburants_icon.png)|
+|![mybin](/Images/documentations/plugins/mybin_icon.webp)|![prixcarburants](/Images/documentations/plugins/prixcarburants_icon.webp)|
 |mode| |
-|![mode_icon.png](/icons/mode_icon.png)| |
+|![mode](/Images/documentations/plugins/mode_icon.webp)| |
 
 
 # Sécurité
 |alarm|[camera](/fr/tuto/page-camera)|
 |:-:	|:-:	|
-|![alarm_icon.png](/icons/alarm_icon.png)|![camera_icon.png](/icons/camera_icon.png)|
+|![alarm](/Images/documentations/plugins/alarm_icon.webp)|![camera](/Images/documentations/plugins/camera_icon.webp)|
 |[nuki](/fr/tuto/plugins-tiers-nuki)| |
-|![nuki_icon.png](/icons/nuki_icon.png)| |
+|![nuki](/Images/documentations/plugins/nuki_icon.webp)| |
 
 # Travel
 |waze in time| 
 |:-:	|:-:	|
-|![wazeintime_icon.png](/icons/wazeintime_icon.png)|
+|![wazeintime](/Images/documentations/plugins/wazeintime_icon.webp)|
 
 
 
